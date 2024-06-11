@@ -1,0 +1,140 @@
+.main{
+    background-image: url(istockphoto-91227309-1024x1024.jpg);
+    background-repeat: repeat-y;
+    /* background-size: auto; */
+    background-size: 1600px 800px;
+}
+.title{
+    border: 10px dotted black;
+    text-align: center;
+    color: red;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.ox{
+    text-align: center;
+    color: black;
+    font-size: 20px;
+}
+.win{
+    text-align: center;
+    font-size: 30px;
+}
+.box{
+    margin-left: 600px;
+    display: flex;
+    flex-direction: column;
+}
+#b1{
+    border-bottom: 3px solid black;
+    border-right: 3px solid black;
+    border-left: none;
+    border-top: none;
+    height: 100px;
+    width: 100px;
+    font-size: 50px;
+    text-align: center;
+    cursor: pointer;
+}
+#b2{
+    border-bottom: 3px solid black;
+    border-right: 3px solid black;
+    border-left: none;
+    border-top: none;
+    height: 100px;
+    width: 100px;
+    font-size: 50px;
+    text-align: center;
+    cursor: pointer;
+}
+#b3{
+    border-bottom: 3px solid black;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    height: 100px;
+    width: 100px;
+    font-size: 50px;
+    text-align: center;
+    cursor: pointer;
+}
+#b4{
+    border-bottom: 3px solid black;
+    border-right: 3px solid black;
+    border-left: none;
+    border-top: none;
+    height: 100px;
+    width: 100px;
+    font-size: 50px;
+    text-align: center;
+    cursor: pointer;
+}
+#b5{
+    border-bottom: 3px solid black;
+    border-right: 3px solid black;
+    border-left: none;
+    border-top: none;
+    height: 100px;
+    width: 100px;
+    font-size: 50px;
+    text-align: center;
+    cursor: pointer;
+}
+#b6{
+    border-bottom: 3px solid black;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    height: 100px;
+    width: 100px;
+    font-size: 50px;
+    text-align: center;
+    cursor: pointer;
+}
+#b7{
+    border-bottom: none;
+    border-right: 3px solid black;
+    border-left: none;
+    border-top: none;
+    height: 100px;
+    width: 100px;
+    font-size: 50px;
+    text-align: center;
+    cursor: pointer;
+}
+#b8{
+    border-bottom:none;
+    border-right: 3px solid black;
+    border-left: none;
+    border-top: none;
+    height: 100px;
+    width: 100px;
+    font-size: 50px;
+    text-align: center;
+    cursor: pointer;
+}
+#b9{
+    border-bottom: none;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    height: 100px;
+    width: 100px;
+    font-size: 50px;
+    text-align: center;
+    cursor: pointer;
+}
+.butt{
+    margin-left: 700px;
+    margin-top: 50px;
+}
+.but button{
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 80px;
+    border: 10px black;
+    color: white;
+    background-color:blue ;
+}
